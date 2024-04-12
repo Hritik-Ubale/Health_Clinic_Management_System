@@ -1,0 +1,23 @@
+ Health Clinic Management System
+Background:
+The task is to develop a backend system for a local health clinic. This system will manage patient records, appointments, doctor profiles, and medical
+departments. The goal is to streamline clinic operations, making patient data handling and appointment scheduling efficient.
+Technologies to use:
+1. NestJS
+2. PostgreSQL
+3. TypeORM
+Core Functionalities and API Requirements:
+1.  Patient Management:
+	API to add a new patient (name, date of birth, contact details).
+	API to update patient information.
+	API to retrieve patient details by patient ID.
+	API to delete a patient record.
+2. Doctor Profiles:
+	API to add new doctor profiles (name, department, contact details, availability).
+	API to update doctor information.
+	API to delete a doctor profile.
+3. Appointment Scheduling:
+	API to book an appointment (patient ID, preferred date, doctor).
+	API to update an appointment (change date/time, cancel appointment).
+	API to list appointments for a specific doctor on a given day.
+	API to find available time slots for a doctor, considering existing appointments and doctor's availability.
