@@ -1,3 +1,7 @@
+For Better Reading Experience : [Health_Clinic_Management_System.txt](https://github.com/Hritik-Ubale/Health_Clinic_Management_System/files/14956956/Health_Clinic_Management_System.txt)
+[prd.txt](https://github.com/Hritik-Ubale/Health_Clinic_Management_System/files/14956955/prd.txt)
+
+
 Steps for Cloning the repo :
 
 1. Navigate to the Directory Where You Want to Clone the Repository:
