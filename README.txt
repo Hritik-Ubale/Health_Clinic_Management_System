@@ -1,6 +1,6 @@
-For Better Reading Experience : [Health_Clinic_Management_System.txt](https://github.com/Hritik-Ubale/Health_Clinic_Management_System/files/14956956/Health_Clinic_Management_System.txt)
-[prd.txt](https://github.com/Hritik-Ubale/Health_Clinic_Management_System/files/14956955/prd.txt)
+For Better Reading Experience of readme : [Health_Clinic_Management_System.txt](https://github.com/Hritik-Ubale/Health_Clinic_Management_System/files/14956956/Health_Clinic_Management_System.txt)
 
+For Product Requirements : [prd.txt](https://github.com/Hritik-Ubale/Health_Clinic_Management_System/files/14956955/prd.txt)
 
 Steps for Cloning the repo :
 
@@ -26,20 +26,14 @@ DB_SYNC=<boolean true/false whether you wanna synchronize database>
 In place of place holders given by < >, add you credentils.
 
 4. Install necessary packages
-
 On terminal run command : 
 npm i
 
 5. Run the project 
-
 In the terminal run command :
-
 npm start
-
 If it logs :
-
 SERVER LISTENING AT PORT : ${<your-PORT>}
-
 Congrats the application is up and running. Else try redoing the above steps. You can also use chatGpt for any assistance needed.
 
 
